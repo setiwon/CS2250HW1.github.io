@@ -1,1 +1,1 @@
-# CS2250HW1.github.io
+# CS2250.01-HW1
